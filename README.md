@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Priu2002-git
-- 👀 I’m interested in coding (C C++) ...
-- 🌱 I’m currently learning DSA and web development...
-- 💞️ I’m looking to collaborate on open source projects ...
-- 📫 How to reach me mail me @ priusircar2002@gmail.com ...
 
-<!---
-Priu2002-git/Priu2002-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Priyanshu Sarkar</h1>
+<h3 align="center">A passionate coder</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priu2002-git&label=Profile%20views&color=0e75b6&style=flat" alt="priu2002-git" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priu2002-git" alt="priu2002-git" /></a> </p>
+
+- 🌱 I’m currently learning **Web Development and DSA**
+
+- 👯 I’m looking to collaborate on **open source projects.**
+
+- 📫 How to reach me **priusircar2002@gmail.com**
+
+- ⚡ Fun fact **I am also a flutist and a great chef**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/priyanshu sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu sarkar" height="30" width="40" /></a>
+<a href="https://fb.com/priyanshu sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu sarkar" height="30" width="40" /></a>
+<a href="https://instagram.com/priyanshu_sarkar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu_sarkar02" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sarkar flutist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sarkar flutist" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/068_priyanshu sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="068_priyanshu sarkar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/068-priyanshu sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="068-priyanshu sarkar" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priu2002-git&show_icons=true&locale=en&layout=compact" alt="priu2002-git" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priu2002-git&show_icons=true&locale=en" alt="priu2002-git" /></p>
